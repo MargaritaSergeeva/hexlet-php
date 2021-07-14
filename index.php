@@ -1,3 +1,4 @@
 <?php
 
-echo 'Hello, Hexlet!';
+
+echo 'Hello, Hexlet!' . PHP_EOL;
