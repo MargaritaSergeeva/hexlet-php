@@ -7,5 +7,7 @@
             "email": "margaritk@inbox.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
